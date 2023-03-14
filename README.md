@@ -2,5 +2,5 @@
 
 ### I plan to add new features and functions in the future :)
 
-![static-website-photo1](https://user-images.githubusercontent.com/109086907/225051538-d7ed798f-2d75-4d70-9e71-72fbeb95fe3a.png)
-![static-website-photo2png](https://user-images.githubusercontent.com/109086907/225051574-d706225a-b19b-4f54-bf98-65614fda5fa6.png)
+![static-website-screenshot-1](https://user-images.githubusercontent.com/109086907/225053320-6be5b48b-e77a-49a9-bf52-32469c511f3e.png)
+![static-website-screenshot-2](https://user-images.githubusercontent.com/109086907/225053336-bf4f8350-a099-4e86-979d-a2c32e3fd7ef.png)
